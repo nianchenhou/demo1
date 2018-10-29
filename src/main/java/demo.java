@@ -7,5 +7,6 @@ public class demo {
 
     public void test1(){
         System.out.println("2345678");
+        System.out.println("hello");
     }
 }
